@@ -1,0 +1,224 @@
+{
+    "tests": [
+        {
+            "name": "test_01 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "01"
+        },
+        {
+            "name": "test_02 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "02"
+        },
+        {
+            "name": "test_03 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "03"
+        },
+        {
+            "name": "test_04 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "04"
+        },
+        {
+            "name": "test_05 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "05"
+        },
+        {
+            "name": "test_06 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "06"
+        },
+        {
+            "name": "test_07 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "07"
+        },
+        {
+            "name": "test_08 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "08"
+        },
+        {
+            "name": "test_09 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "09"
+        },
+        {
+            "name": "test_10 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "10"
+        },
+        {
+            "name": "test_11 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "11"
+        },
+        {
+            "name": "test_12 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "12"
+        },
+        {
+            "name": "test_13 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "13"
+        },
+        {
+            "name": "test_14 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "14"
+        },
+        {
+            "name": "test_15 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "15"
+        },
+        {
+            "name": "test_16 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "16"
+        },
+        {
+            "name": "test_17 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "17"
+        },
+        {
+            "name": "test_18 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "18"
+        },
+        {
+            "name": "test_19 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "19"
+        },
+        {
+            "name": "test_20 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "20"
+        },
+        {
+            "name": "test_21 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "21"
+        },
+        {
+            "name": "test_22 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "22"
+        },
+        {
+            "name": "test_23 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23"
+        },
+        {
+            "name": "test_24 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24"
+        },
+        {
+            "name": "test_25 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "25"
+        },
+        {
+            "name": "test_26 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "26"
+        },
+        {
+            "name": "test_27 (test_assignment.TestAssignment)",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "27"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "0.01",
+    "score": 108
+}
