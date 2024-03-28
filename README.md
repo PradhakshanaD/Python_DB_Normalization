@@ -16,15 +16,25 @@ Practice SQL queries
 The project is divided into several steps, each focusing on creating and populating a specific table in the normalized database. Here's a brief overview of the steps:
 
 Create the Region Table
+
 Create a dictionary to map Region to RegionID
+
 Create the Country Table
+
 Create a dictionary to map Country to CountryID
+
 Create the Customer Table
+
 Create a dictionary to map Name (FirstName LastName) to CustomerID
+
 Create the Product Category Table
+
 Create a dictionary to map productcategory to productcategoryid
+
 Create the Product Table
+
 Create a dictionary to map product to productid
+
 Create the OrderDetail Table
 
 ## Project files:
