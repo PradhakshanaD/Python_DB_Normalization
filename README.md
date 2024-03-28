@@ -1,8 +1,7 @@
 # Mini-Project: Normalized Database Creation
 
 ## Description:
-This mini-project involves parsing a large, messy data file and creating a normalized database from it. The data file contains information about customers and their product orders, with each row representing a customer and their ordered products 
-separated by semicolons. The database creation process includes creating six tables: Region, Country, Customer, ProductCategory, Product, and OrderDetail.
+This mini-project involves parsing a large, messy data file and creating a normalized database from it. The data file contains information about customers and their product orders, with each row representing a customer and their ordered products separated by semicolons. The database creation process includes creating six tables: Region, Country, Customer, ProductCategory, Product, and OrderDetail.
 
 ## Objectives:
 Parse a large 'messy' file
@@ -29,7 +28,6 @@ Create a dictionary to map product to productid
 Create the OrderDetail Table
 
 ## Project files:
-
 data.csv: Input data file containing customer information and product orders.
 
 Output files for each table: These files contain the data inserted into each table after parsing the input file.
@@ -41,7 +39,4 @@ mini_project2.py: Python source file containing the code to parse the data, crea
 mini_project2_template: Template provided as part of the assignment.
 
 ## Disclaimer:
-This project was completed without utilizing Pandas functions, adhering to the specified guidelines and instructions. It was conducted as part of a Master's program, focusing on database normalization, SQL query practice, and 
-efficient data handling techniques. For any further assistance, please refer to the instructions file provided.
-
-
+This project was completed without utilizing Pandas functions. This project was completed with adherence to the specified guidelines and instructions. For any inquiries or further assistance, please refer to the instructions file  It was conducted as part of a Master's program, focusing on database normalization, SQL query practice, and efficient data handling techniques. For any further assistance, please refer to the instructions file.
