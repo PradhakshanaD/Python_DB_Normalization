@@ -15,13 +15,6 @@ Optimize code to load 600,000+ rows into a database quickly
 
 Practice SQL queries
 
-## Data Description:
-
-The data is stored in a CSV file with 11 columns separated by tabs.
-
-Each row represents a customer with details such as name, address, city, country, region, and their product orders.
-
-
 ## Project Steps:
 
 The project is divided into several steps, each focusing on creating and populating a specific table in the normalized database. Here's a brief overview of the steps:
@@ -37,6 +30,18 @@ Create a dictionary to map productcategory to productcategoryid
 Create the Product Table
 Create a dictionary to map product to productid
 Create the OrderDetail Table
+
+## Project files:
+
+data.csv: Input data file containing customer information and product orders.
+
+Output files for each table: These files contain the data inserted into each table after parsing the input file.
+
+instructions.txt: Instructions file providing step-by-step guidelines for completing the project.
+
+mini_project2.py: Python source file containing the code to parse the data, create the database tables, and load data into the tables.
+
+mini_project2_template: Template provided as part of the assignment.
 
 ## Disclaimer:
 
